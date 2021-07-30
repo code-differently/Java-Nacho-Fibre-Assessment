@@ -8,7 +8,7 @@
 
 ## Description
 
-You have two problems below. You should write psuedocode and code for each solution. Test cases are included to ensure proper functionality. You can run `junit test` in the intellij to run the test suite.
+You have two problems below. You should write psuedocode and code for each solution. Test cases are included to ensure proper functionality.
 
 ## Problem 1: The Fibonacci Sequence
 
